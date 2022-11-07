@@ -1,0 +1,54 @@
+
+.container {
+  display: flex;
+}
+.title {
+  margin-top: 16px;
+}
+
+.image-machine {
+  width: 100%;
+}
+.section-information {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+h4 {
+  text-align: center;
+  font-size: large;
+  color: #5A5858;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.status-container {
+  display: flex;
+  font-size: 16px;
+}
+
+.icon-status {
+  margin-top: 4px;
+  margin-left: 10px;
+}
+
+.card-information {
+  max-width: 360px;
+  width: 100%;
+  margin: 10px
+}
+
+.container-load {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+}
