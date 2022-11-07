@@ -72,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[AntDesign)(https://ant.design/)**
+-   **[AntDesign](https://ant.design/)**
 -   **[HighCharts](https://www.highcharts.com/)**
 -   **[Date-FNS](https://date-fns.org/)**
 
@@ -82,6 +82,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   
  <a href="https://www.linkedin.com/in/thiago-fernandes-0406b7131/">
   <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGqbScwowus2g/profile-displayphoto-shrink_800_800/0/1639663657837?e=1673481600&v=beta&t=tQiFejMxxc0I1JR1YbhbyGMl0mQpbmZtCDCpem5nQMk" width="100px;" alt=""/>
-  <sub><b>Thiago Fernandes<b></sub></a>
+  <br/>
+  <sub><b>Thiago Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/thiago-fernandes-0406b7131/" title="Linkedin">🚀</a>
  </a>
  
