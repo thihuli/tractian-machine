@@ -9,14 +9,14 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-projeto">Sobre</a>
  <a href="#-funcionalidades">Funcionalidades</a>
 </p>
 
 
 ## 💻 Sobre o projeto
 
-Trata-se de um aplicação web desenvolvida em react js para monitoramento de motores utilizando os sensores da tractian
+Trata-se de um aplicação web desenvolvida em React.js para monitoramento de motores utilizando os sensores da tractian
 
 ---
 
@@ -35,7 +35,7 @@ Trata-se de um aplicação web desenvolvida em react js para monitoramento de mo
 
 ## 🎨 Layout
 
-O layout da aplicação foi desenvolvido utizando com base um modelo disponivel na web e fazendo uso do ant desing
+O layout da aplicação foi desenvolvido utilizando como base um modelo disponível na web e fazendo uso do ant desing
 
 <a href="https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/98f7901e-b51d-4cbe-bb80-0247650bac42.png?auto=format&q=50">
   acessar layout
@@ -53,10 +53,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 # Clone este repositório
-$ git clone git@github.com:thihuli/traction-machine.git
+$ git clone git@github.com:thihuli/tractian-machine.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd traction-machine
+$ cd tractian-machine
 
 # Instale as dependências
 $ yarn add
@@ -65,11 +65,6 @@ $ yarn add
 $ yarn dev
 
 # O servidor inciará na porta:5173 - acesse http://localhost:5173/ 
-
-```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## 🛠 Tecnologias
 
@@ -81,7 +76,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[HighCharts](https://www.highcharts.com/)**
 -   **[Date-FNS](https://date-fns.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/thihuli/traction-machine/blob/main/package.json)
+> Veja o arquivo  [package.json](https://github.com/thihuli/tractian-machine/blob/main/package.json)
 
 ## 🦸 Autor
   
